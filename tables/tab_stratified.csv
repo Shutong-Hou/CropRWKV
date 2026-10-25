@@ -1,0 +1,17 @@
+criterion,method,Q1,Q2,Q3,Q4,Q4_minus_Q1
+area,CropRWKV FULL (ours),0.1902,0.3428,0.4812,0.5871,+0.3970
+area,"DeepLabV3+ (R50, IN)",0.6089,0.7600,0.7942,0.8244,+0.2155
+area,SegFormer-B2 (IN),0.5575,0.7735,0.8231,0.8339,+0.2764
+area,"U-Net (R50, IN)",0.5891,0.7468,0.7928,0.8225,+0.2334
+area,Swin-UNet (IN),0.6142,0.7529,0.8266,0.8302,+0.2160
+area,U-Net (scratch),0.4819,0.6698,0.7097,0.7216,+0.2397
+area,SegFormer-B2 (scratch),0.4765,0.7024,0.7665,0.7614,+0.2849
+area,CropRWKV A0,0.1139,0.2163,0.3690,0.4946,+0.3806
+diameter,CropRWKV FULL (ours),0.2324,0.3370,0.4653,0.5667,+0.3343
+diameter,"DeepLabV3+ (R50, IN)",0.6125,0.7608,0.7920,0.8222,+0.2097
+diameter,SegFormer-B2 (IN),0.6081,0.7299,0.8132,0.8367,+0.2286
+diameter,"U-Net (R50, IN)",0.6008,0.7495,0.7809,0.8200,+0.2193
+diameter,Swin-UNet (IN),0.6303,0.7418,0.8163,0.8356,+0.2053
+diameter,U-Net (scratch),0.4809,0.6955,0.7088,0.6977,+0.2167
+diameter,SegFormer-B2 (scratch),0.5023,0.6982,0.7346,0.7717,+0.2694
+diameter,CropRWKV A0,0.1471,0.2271,0.3386,0.4810,+0.3338

@@ -1,0 +1,9 @@
+method,rho_area,rho_diam,rho_ncomp,mid50_mean
+CropRWKV FULL (ours),0.8701,0.7620,-0.0818,0.4120
+"DeepLabV3+ (R50, IN)",0.3954,0.4323,-0.3524,0.7771
+SegFormer-B2 (IN),0.5425,0.5274,-0.3204,0.7983
+"U-Net (R50, IN)",0.4188,0.4306,-0.3627,0.7698
+Swin-UNet (IN),0.4982,0.5582,-0.4380,0.7898
+U-Net (scratch),0.3618,0.3446,-0.2242,0.6897
+SegFormer-B2 (scratch),0.4258,0.3967,-0.1556,0.7345
+CropRWKV A0,0.9278,0.8120,-0.1078,0.2927

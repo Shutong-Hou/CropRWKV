@@ -1,0 +1,3 @@
+dataset,source,images,species,classes,resolution,mean_lesion_frac,median_lesion_frac,n_lt5pct,n_gt30pct,license
+Set A (PlantDoc),Kaggle,588,13,17--27,253 distinct res.; mode $256\times256$,0.15938321623485588,0.11552765414246127,126,77,CC0-1.0
+Set B (PlantSeg),HuggingFace,1195,32,59,861 distinct res.; median 640$\times$500,0.19971341503939713,0.12845118742889647,271,272,CC BY-NC-ND 4.0

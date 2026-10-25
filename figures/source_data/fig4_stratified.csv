@@ -1,0 +1,14 @@
+panel,method,Q1,Q2,Q3,Q4
+a,CropRWKV FULL (ours),0.1902,0.3428,0.4812,0.5871
+a,"DeepLabV3+ (R50, IN)",0.6089,0.7600,0.7942,0.8244
+a,SegFormer-B2 (IN),0.5575,0.7735,0.8231,0.8339
+a,"U-Net (R50, IN)",0.5891,0.7468,0.7928,0.8225
+a,Swin-UNet (IN),0.6142,0.7529,0.8266,0.8302
+a,CropRWKV A0,0.1139,0.2163,0.3690,0.4946
+b,method,rho_area,rho_diameter,,
+b,CropRWKV FULL (ours),0.8701,0.7620,,
+b,CropRWKV A0,0.9278,0.8120,,
+b,"DeepLabV3+ (R50, IN)",0.3954,0.4323,,
+b,SegFormer-B2 (IN),0.5425,0.5274,,
+b,"U-Net (R50, IN)",0.4188,0.4306,,
+b,Swin-UNet (IN),0.4982,0.5582,,

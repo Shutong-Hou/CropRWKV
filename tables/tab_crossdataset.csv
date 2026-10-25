@@ -1,0 +1,8 @@
+protocol,model,soft_dice,iou05,dice05,n_test
+zeroshot,CropRWKV FULL,0.260 +/- 0.009,0.102 +/- 0.012,0.147 +/- 0.017,119
+zeroshot,SegFormer-B2 (IN),0.368 +/- 0.008,0.196 +/- 0.009,0.251 +/- 0.010,119
+zeroshot,"U-Net (R50, IN)",0.317 +/- 0.006,0.150 +/- 0.007,0.197 +/- 0.007,119
+indomain,CropRWKV FULL,0.256 +/- 0.011,0.117 +/- 0.014,0.168 +/- 0.015,119
+indomain,SegFormer-B2 (IN),0.330 +/- 0.007,0.168 +/- 0.005,0.217 +/- 0.007,119
+indomain,"U-Net (R50, IN)",0.325 +/- 0.009,0.167 +/- 0.009,0.218 +/- 0.011,119
+indomain,"CropRWKV FULL, stability-controlled (EX-180)",0.25790425486267865,0.11318658850687217,0.16349029780685667,119

@@ -1,0 +1,7 @@
+component,fp32_ms,fp32_pct,fp16_ms,fp16_pct
+WKV scan operator (all calls),14.1719,43.95,14.1912,49.97
+attention sub-block,6.8353,21.2,6.5124,22.93
+local depthwise conv (positional),2.2398,6.95,1.3898,4.89
+stem (stage 0),0.4599,1.43,0.4504,1.59
+other encoder ops,2.7169,8.43,1.8005,6.34
+wall,32.2478,100.0,28.3988,100.0

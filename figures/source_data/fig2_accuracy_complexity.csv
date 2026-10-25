@@ -1,0 +1,8 @@
+method,soft_dice_mean,soft_dice_std,params_M,flops_G,fp32_ms
+CropRWKV FULL,0.4003,0.0486,15.7,86.0,33.248
+"DeepLabV3+ (R50, IN)",0.7469,0.0167,26.7,73.8,7.261
+SegFormer-B2 (IN),0.747,0.0055,24.7,42.4,10.8162
+"U-Net (R50, IN)",0.7378,0.0017,32.5,85.7,8.4035
+Swin-UNet (IN),0.756,0.0343,56.3,252.8,22.8274
+U-Net (scratch),0.6457,0.0085,13.3,255.2,14.8825
+SegFormer-B2 (scratch),0.6767,0.0247,24.7,42.4,10.8162

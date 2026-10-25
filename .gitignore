@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# datasets and per-experiment snapshots are not part of this repository
+data/
+results/*
+!results/EX-020/

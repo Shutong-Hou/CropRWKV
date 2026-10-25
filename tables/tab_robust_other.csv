@@ -1,0 +1,13 @@
+block,setting,value,sd,params
+data,10\%,0.2865,0.0164
+data,25\%,0.312,0.0422
+data,50\%,0.3641,0.0603
+data,100\%,0.4003,0.0486
+resolution,640,0.2911,0.0233
+resolution,768,0.388,0.0457
+resolution,1024 (train),0.4003,0.0486
+noise,clean,0.4003,0.0486
+noise,eroded,0.3133,0.0686
+scale,T,0.4095,0.0137,"9.0\,M"
+scale,S $=$ FULL,0.4003,0.0486,"15.7\,M"
+scale,B,0.3116503720870242,,24.3 M

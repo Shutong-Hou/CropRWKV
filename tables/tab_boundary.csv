@@ -1,0 +1,13 @@
+condition,metric,CropRWKV FULL,"DeepLabV3+ (R50, IN)",SegFormer-B2 (IN),"U-Net (R50, IN)",Swin-UNet (IN),U-Net (scratch)
+clean,Boundary IoU,0.273,0.536,0.540,0.526,0.571,0.436
+clean,BF-score,0.662,0.846,0.839,0.838,0.869,0.771
+blur_sigma2,Boundary IoU,0.233,0.488,0.532,0.473,0.550,0.322
+blur_sigma2,BF-score,0.613,0.819,0.834,0.809,0.855,0.690
+blur_sigma4,Boundary IoU,0.167,0.326,0.478,0.252,0.472,0.085
+blur_sigma4,BF-score,0.521,0.652,0.802,0.560,0.785,0.292
+jpeg_q30,Boundary IoU,0.269,0.507,0.522,0.505,0.558,0.423
+jpeg_q30,BF-score,0.657,0.822,0.828,0.819,0.857,0.760
+low_light_0.5x,Boundary IoU,0.087,0.508,0.541,0.476,0.577,0.264
+low_light_0.5x,BF-score,0.337,0.829,0.840,0.809,0.868,0.575
+occlusion_10pct,Boundary IoU,0.238,0.433,0.484,0.415,0.504,0.366
+occlusion_10pct,BF-score,0.628,0.795,0.821,0.774,0.852,0.739

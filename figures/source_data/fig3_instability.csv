@@ -1,0 +1,18 @@
+panel,target_or_ex,value,detail
+a,VDAS-3  $J$,10504.8115,spectral norm
+a,VDAS-3  $I{+}J$,10504.8099,spectral norm
+a,VDAS-3  h-scan,1230021661.8366,spectral norm
+a,VDAS-3  v-scan,NaN,spectral norm
+a,VDAS-4  $J$,181.925,spectral norm
+a,VDAS-4  $I{+}J$,181.8983,spectral norm
+a,VDAS-4  h-scan,937.1055,spectral norm
+a,VDAS-4  v-scan,372.4767,spectral norm
+a,MPSA  $J$,2.7206,spectral norm
+a,MPSA  $I{+}J$,3.4557,spectral norm
+a,FEEM  $J$,4.4854,spectral norm
+a,backbone IR-RWKV,21564.9115,spectral norm
+b,EX-025,112.320,r stage0
+b,EX-029,638.547,r stage0
+b,EX-030,519.119,r stage0
+b,EX-031,5.681,r stage0
+b,EX-032,1.029,r stage0
