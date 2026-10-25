@@ -114,5 +114,16 @@ the paper.
 
 ## License
 
-The code in `code/`, `experiments/` and `scripts/` is released for research use.
-The third-party directory keeps its original license.
+The code in `code/`, `experiments/` and `scripts/` is released under the MIT
+License (see `LICENSE`).
+
+`third_party/RWKV-UNet/` is third-party code and remains under its original MIT
+License (Copyright (c) 2025 Juntao Jiang); its own `LICENSE` file is included in
+that directory.
+
+The source-data records in `tables/`, `figures/source_data/` and
+`results/EX-020/splits/` contain only the aggregated values reported in the
+paper and the split identifiers used here, and are provided for verification of
+the published results. The licenses of the original datasets continue to apply
+to the underlying data (Set A: CC0-1.0; Set B: CC BY-NC-ND 4.0, not
+redistributed here).
